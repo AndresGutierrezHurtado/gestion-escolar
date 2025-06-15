@@ -1,6 +1,6 @@
 # 🏫 MATRYERSE – Plataforma SaaS de Gestión Escolar Integral
 
-[Versión en Inglés](./README.md)
+[English Version](./README.md)
 
 **MATRYERSE** es una innovadora plataforma web basada en el modelo **Software as a Service (SaaS)**, diseñada para optimizar la gestión académica, administrativa y financiera de instituciones educativas privadas en Bogotá y otras ciudades. Su enfoque multi-institucional permite que varios colegios o academias utilicen el mismo sistema de manera independiente, garantizando total privacidad y aislamiento de los datos de cada institución gracias a una arquitectura de multi-tenencia lógica.
 
@@ -23,7 +23,7 @@ La plataforma busca centralizar procesos esenciales como:
 
 ---
 
-## Tabla de Contenidos
+## 📑 Tabla de Contenidos
 
 1. [Características Principales](#-características-principales)
 2. [Tecnologías Utilizadas](#️-tecnologías-utilizadas)
@@ -45,7 +45,7 @@ La plataforma busca centralizar procesos esenciales como:
 -   Administración de grupos y materias
 -   Personalización por institución
 
-![Gestión Académica](./assets/images/academic-management.png)
+![Gestión Académica](#)
 
 ### 👥 Control de Usuarios y Roles
 
@@ -58,7 +58,7 @@ La plataforma busca centralizar procesos esenciales como:
     -   Tutor/Padre
 -   Perfiles personalizables
 
-![Control de Usuarios](./assets/images/user-management.png)
+![Control de Usuarios](#)
 
 ### 📝 Gestión de Matrículas y Solicitudes
 
@@ -70,7 +70,7 @@ La plataforma busca centralizar procesos esenciales como:
     -   Rechazada
 -   Seguimiento de trámites
 
-![Gestión de Matrículas](./assets/images/enrollment-management.png)
+![Gestión de Matrículas](#)
 
 ### 🏫 Soporte Multi-Institución
 
@@ -85,7 +85,7 @@ La plataforma busca centralizar procesos esenciales como:
     -   Parámetros de notas
     -   Estructura organizacional
 
-![Multi-Institución](./assets/images/multi-institution.png)
+![Multi-Institución](#)
 
 ### 📊 Gestión de Notas y Asistencias
 
@@ -98,7 +98,7 @@ La plataforma busca centralizar procesos esenciales como:
     -   Ausente (Con opcion de agregar justificación)
     -   Retardo (Con opcion de agregar justificación)
 
-![Notas y Asistencias](./assets/images/grades-attendance.png)
+![Notas y Asistencias](#)
 
 ### 🗓️ Módulo de Horarios
 
@@ -108,7 +108,7 @@ La plataforma busca centralizar procesos esenciales como:
     -   Materias
     -   Grupos
 
-![Horarios](./assets/images/schedules.png)
+![Horarios](#)
 
 ### 💰 Gestión Financiera
 
@@ -119,7 +119,7 @@ La plataforma busca centralizar procesos esenciales como:
     -   Pagado
 -   Reportes financieros
 
-![Gestión Financiera](./assets/images/financial-management.png)
+![Gestión Financiera](#)
 
 ### 🗂️ Historial de Observaciones
 
@@ -130,7 +130,7 @@ La plataforma busca centralizar procesos esenciales como:
 -   Seguimiento por estudiante
 -   Historial detallado con fechas
 
-![Observaciones](./assets/images/observations.png)
+![Observaciones](#)
 
 ### 👨‍👩‍👧 Vinculación de Tutores
 
@@ -140,7 +140,7 @@ La plataforma busca centralizar procesos esenciales como:
     -   Financiera
 -   Gestión de múltiples acudidos
 
-![Vinculación de Tutores](./assets/images/tutor-linking.png)
+![Vinculación de Tutores](#)
 
 ### 🔐 Permisos Administrativos
 
@@ -148,7 +148,7 @@ La plataforma busca centralizar procesos esenciales como:
 -   Acceso por módulos
 -   Control granular de operaciones
 
-![Permisos](./assets/images/permissions.png)
+![Permisos](#)
 
 ### 📈 Reportes
 
@@ -157,7 +157,7 @@ La plataforma busca centralizar procesos esenciales como:
 -   Estados financieros
 -   Indicadores académicos
 
-![Reportes](./assets/images/reports.png)
+![Reportes](#)
 
 ---
 
