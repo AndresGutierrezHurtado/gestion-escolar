@@ -19,7 +19,7 @@ La plataforma busca centralizar procesos esenciales como:
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-![Imagen del index](#)
+![Imagen del index](./docs/images/index.png)
 
 ---
 
@@ -37,127 +37,7 @@ La plataforma busca centralizar procesos esenciales como:
 
 ## 🚀 Características Principales
 
-### 🎓 Gestión Académica Completa
 
--   Administración de instituciones educativas
--   Gestión de periodos académicos por institución
--   Niveles y grados basado en el sistema escolar colombiano
--   Administración de grupos y materias
--   Personalización por institución
-
-![Gestión Académica](#)
-
-### 👥 Control de Usuarios y Roles
-
--   Sistema de autenticación robusto
--   Múltiples roles predefinidos:
-    -   Administrador
-    -   Administrativo (Con opción de modificar sus permisos)
-    -   Docente
-    -   Estudiante
-    -   Tutor/Padre
--   Perfiles personalizables
-
-![Control de Usuarios](#)
-
-### 📝 Gestión de Matrículas y Solicitudes
-
--   Proceso de solicitud de matrícula
--   Validación de tutores y estudiantes
--   Estados de solicitud:
-    -   Pendiente
-    -   Aprobada
-    -   Rechazada
--   Seguimiento de trámites
-
-![Gestión de Matrículas](#)
-
-### 🏫 Soporte Multi-Institución
-
--   Arquitectura multi-tenancy lógica
--   Aislamiento total de datos
--   Personalización por institución:
-    -   Periodos
-    -   Materias
-    -   Horarios
-    -   Cursos
-    -   Estudiantes
-    -   Parámetros de notas
-    -   Estructura organizacional
-
-![Multi-Institución](#)
-
-### 📊 Gestión de Notas y Asistencias
-
--   Registro de calificaciones por:
-    -   Materia
-    -   Estudiante
-    -   Periodo académico
--   Control de asistencia:
-    -   Presente
-    -   Ausente (Con opcion de agregar justificación)
-    -   Retardo (Con opcion de agregar justificación)
-
-![Notas y Asistencias](#)
-
-### 🗓️ Módulo de Horarios
-
--   Definición de bloques horarios con validaciones de conflictos
--   Asignación de:
-    -   Docentes
-    -   Materias
-    -   Grupos
-
-![Horarios](#)
-
-### 💰 Gestión Financiera
-
--   Conceptos de pago personalizados
--   Registro de pagos de matrícula
--   Estados de pago:
-    -   Pendiente
-    -   Pagado
--   Reportes financieros
-
-![Gestión Financiera](#)
-
-### 🗂️ Historial de Observaciones
-
--   Registro de observaciones:
-    -   Académicas
-    -   Disciplinarias
-    -   Generales
--   Seguimiento por estudiante
--   Historial detallado con fechas
-
-![Observaciones](#)
-
-### 👨‍👩‍👧 Vinculación de Tutores
-
--   Relación estudiante-tutor
--   Acceso a información:
-    -   Académica
-    -   Financiera
--   Gestión de múltiples acudidos
-
-![Vinculación de Tutores](#)
-
-### 🔐 Permisos Administrativos
-
--   Permisos personalizados
--   Acceso por módulos
--   Control granular de operaciones
-
-![Permisos](#)
-
-### 📈 Reportes
-
--   Reportes de desempeño
--   Control de asistencia
--   Estados financieros
--   Indicadores académicos
-
-![Reportes](#)
 
 ---
 
@@ -412,7 +292,8 @@ Para preguntas, soporte o colaboración, por favor contacta:
 Este proyecto se encuentra protegido bajo derechos de autor. Su código fuente se proporciona únicamente con fines de revisión y consulta.
 
 🚫 No está permitido:
-- Usar este código en proyectos personales, académicos o comerciales.
-- Modificar, redistribuir o copiar total o parcialmente este repositorio.
+
+-   Usar este código en proyectos personales, académicos o comerciales.
+-   Modificar, redistribuir o copiar total o parcialmente este repositorio.
 
 Para obtener permisos especiales de uso, contacta a: [andres52885241@gmail.com](mailto:andres52885241@gmail.com)
