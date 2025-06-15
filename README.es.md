@@ -37,7 +37,105 @@ La plataforma busca centralizar procesos esenciales como:
 
 ## 🚀 Características Principales
 
+### 📌 Gestión de Instituciones
 
+Permite a los administradores gestionar múltiples instituciones educativas de manera independiente gracias a la arquitectura multi-tenant, garantizando privacidad de datos entre ellas.
+
+-   Multi-tenencia lógica.
+-   Creación, edición y eliminación de instituciones.
+-   Aislamiento total de datos entre instituciones.
+
+![Gestión de Instituciones](./docs/images/institutions.png)
+
+### 🔐 Autenticación y Control de Acceso
+
+Sistema de autenticación robusto que permite el acceso seguro de usuarios según su rol (Guest, Administrador, Administrativo, Docente, Estudiante, Tutor) con permisos y vistas personalizadas.
+
+-   Inicio de sesión con validación segura.
+-   Recuperación de contraseña.
+-   Control de accesos y permisos por rol.
+
+![Autenticación](./docs/images/authentication.png)
+
+### 👥 Gestión de Usuarios
+
+Funcionalidad para crear, editar, eliminar y asignar roles a los usuarios de la plataforma, permitiendo una administración eficiente de administrativos, docentes, estudiantes y tutores.
+
+-   Registro y edición de usuarios.
+-   Asignación de roles y permisos.
+-   Gestión de estado activo/inactivo de cuentas.
+
+![Gestión de Usuarios](./docs/images/users.png)
+
+### 📝 Gestión de Matrículas
+
+Permite a los administrativos registrar y gestionar las matrículas de los estudiantes por periodo académico. Incluye formulario de inscripción y envío de confirmación vía correo electrónico.
+
+-   Formulario de inscripción para aspirantes.
+-   Validación y aprobación de matrículas.
+-   Notificación por correo electrónico.
+
+![Gestión de Matrículas](./docs/images/enrollments.png)
+
+### 📧 Solicitud de Información
+
+Los visitantes (Guest) pueden llenar un formulario de contacto o inscripción. La información es enviada automáticamente a los administradores de la institución seleccionada.
+
+-   Formulario de contacto personalizable.
+-   Envío automático de datos a los administrativos.
+-   Registro de solicitudes para seguimiento posterior.
+
+![Solicitud de Información](./docs/images/forms.png)
+
+### 📊 Estadísticas Generales e Institucionales
+
+Visualización de datos relevantes como número de estudiantes matriculados, asistencia, pagos realizados, entre otros indicadores para una toma de decisiones informada.
+
+-   Panel con indicadores clave.
+-   Filtros por institución y periodo académico.
+-   Exportación de reportes.
+
+![Estadísticas](./docs/images/statistics.png)
+
+### 🏫 Gestión de Estructura Escolar
+
+Módulo para definir y gestionar la estructura académica de la institución: periodos, cursos, materias, asignación de docentes, horarios de clases y carga académica.
+
+-   Creación de cursos, materias y periodos.
+-   Asignación de docentes a grupos y materias.
+-   Configuración de horarios de clases.
+
+![Estructura Escolar](./docs/images/academicStructure.png)
+
+### 💳 Registro y Gestión de Pagos
+
+Permite registrar pagos de matrículas, pensiones y otros conceptos financieros. Incluye trazabilidad de pagos por estudiante y generación de reportes.
+
+-   Registro manual o automático de pagos.
+-   Historial de pagos por estudiante.
+-   Generación de facturas y comprobantes.
+
+![Gestión de Pagos](./docs/images/payments.png)
+
+### 🗒️ Gestión de Observaciones y Asistencias
+
+Los docentes pueden registrar ausencias y observaciones por estudiante, las cuales son visibles para los tutores y administrativos, garantizando un seguimiento integral del alumno.
+
+-   Registro de ausencias diarias.
+-   Observaciones académicas o disciplinarias.
+-   Visualización de reportes por tutores.
+
+![Observaciones y Asistencias](./docs/images/observations.png)
+
+### 🕒 Vista de Horarios
+
+Docentes, estudiantes y tutores pueden consultar de manera sencilla el horario de clases de los diferentes grupos, permitiendo una mejor organización de las actividades diarias.
+
+-   Visualización de horario personalizado por rol.
+-   Horarios semanales de cursos y materias.
+-   Detalle de asignaturas, salones y docentes.
+
+![Vista de Horarios](./docs/images/schedules.png)
 
 ---
 
