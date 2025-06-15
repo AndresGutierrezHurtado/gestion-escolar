@@ -9,7 +9,7 @@
     @vite(['resources/css/app.css', 'resources/js/uploadForm.js'])
 </head>
 
-<body class="flex flex-col min-h-screen w-full font-poppins drawer lg:drawer-open">
+<body class="flex flex-col min-h-screen w-full font-poppins drawer">
     <input id="my-drawer-2" type="checkbox" class="drawer-toggle" />
 
     <div class="drawer-content flex flex-col">
