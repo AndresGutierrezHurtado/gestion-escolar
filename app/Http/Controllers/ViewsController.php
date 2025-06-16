@@ -461,8 +461,7 @@ class ViewsController
         $institucion_id = $usuarioSesion->administrativo->institucion_id;
 
         $grupos = Grupo::with('grado', 'grado.nivel', 'asignaciones')
-            ->where('institucion_id', $institucion_id)
-            ->paginate(10);
+            ->where('institucion_id', $institucion_id);
 
         $materias = Materia::where('institucion_id', $institucion_id)->get();
 
@@ -481,6 +480,7 @@ class ViewsController
         }
 
         $grados = Grado::with('nivel')->get();
+        $grupos = $grupos->paginate(10);
 
         return view('app.administrative.groups', compact('usuarioSesion', 'grupos', 'grados', 'materias', 'docentes', 'availableYears', 'selectedYear'));
     }
