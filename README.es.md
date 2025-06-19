@@ -2,7 +2,7 @@
 
 [English Version](./README.md)
 
-**MATRYERSE** es una innovadora plataforma web basada en el modelo **Software as a Service (SaaS)**, diseñada para optimizar la gestión académica, administrativa y financiera de instituciones educativas privadas en Bogotá y otras ciudades. Su enfoque multi-institucional permite que varios colegios o academias utilicen el mismo sistema de manera independiente, garantizando total privacidad y aislamiento de los datos de cada institución gracias a una arquitectura de multi-tenencia lógica.
+**MATRYERSE** es una innovadora plataforma web basada en el modelo **Software as a Service (SaaS)**, diseñada para optimizar la gestión académica, administrativa y financiera de instituciones educativas en Bogotá y otras ciudades. Su enfoque multi-institucional permite que varios colegios o academias utilicen el mismo sistema de manera independiente, garantizando total privacidad y aislamiento de los datos de cada institución gracias a una arquitectura de multi-tenencia lógica.
 
 La plataforma busca centralizar procesos esenciales como:
 
