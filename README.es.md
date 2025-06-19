@@ -14,8 +14,8 @@ La plataforma busca centralizar procesos esenciales como:
 
 **MATRYERSE** es ideal para instituciones que deseen modernizar su operación diaria, reducir procesos manuales, mejorar la trazabilidad de datos y ofrecer una experiencia digital sólida a sus administrativos, docentes, estudiantes y tutores.
 
-![Laravel](https://img.shields.io/badge/Laravel-10-red)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
+![Laravel](https://img.shields.io/badge/Laravel-12-red)
+![MySQL](https://img.shields.io/badge/MySQL-10.4-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
