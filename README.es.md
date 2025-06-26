@@ -17,7 +17,7 @@ La plataforma busca centralizar procesos esenciales como:
 ![Laravel](https://img.shields.io/badge/Laravel-12-red)
 ![MySQL](https://img.shields.io/badge/MySQL-10.4-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Restricted%20Use-red)
 
 ![Imagen del index](./docs/images/index.png)
 
@@ -32,6 +32,7 @@ La plataforma busca centralizar procesos esenciales como:
 5. [Estructura de Carpetas](#-estructura-de-carpetas)
 6. [Instalación](#️-instalación)
 7. [Contacto](#-contacto)
+8. [Licencia y Uso](#️-licencia-y-uso)
 
 ---
 
@@ -323,6 +324,8 @@ gestion-escolar/
 -   **storage**: Almacenamiento de archivos y logs
 -   **tests**: Pruebas unitarias y de integración
 
+---
+
 ## ⚙️ Instalación
 
 1. **Clonar el repositorio**
@@ -375,6 +378,8 @@ gestion-escolar/
 -   MySQL >= 8.0
 -   Apache/Nginx
 
+---
+
 ## 📞 Contacto
 
 Para preguntas, soporte o colaboración, por favor contacta:
@@ -384,6 +389,8 @@ Para preguntas, soporte o colaboración, por favor contacta:
 -   LinkedIn: [Andrés Gutiérrez](https://www.linkedin.com/in/andr%C3%A9s-guti%C3%A9rrez-hurtado-25946728b/)
 -   GitHub: [@AndresGutierrezHurtado](https://github.com/AndresGutierrezHurtado)
 -   Portafolio: [Link portafolio](https://andres-portfolio-b4dv.onrender.com)
+
+---
 
 ## ⚠️ Licencia y Uso
 
